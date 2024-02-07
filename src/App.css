@@ -1,18 +1,9 @@
-/* styles.css (or your CSS file) */
-.button-style {
+
+#startButton {
     background-color: #007bff;
     color: #fff;
     margin-left: 20px;
     border: none;
     border-radius: 4px;
-  } 
-  .results{
-    margin-left:20px;
-    margin-top:10px;
-    font-size: 18px;
- 
-  }
-
-  
-  /* You can customize the styles as per your requirements */
-  
+    min-height: 40px;
+}
